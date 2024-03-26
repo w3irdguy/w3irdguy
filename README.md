@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*anv26PNELOHtrOdg5spOIA.png" width="100"/>
+  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="100"/>
 </div>
