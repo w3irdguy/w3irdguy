@@ -22,7 +22,7 @@ https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youn
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" width="100"/>
   <img src="https://d34cn6qij0e941.cloudfront.net/wp-content/uploads/2024/01/powershell_logo-e1704823786662.png" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="100"/>
-  <img src="https://media.licdn.com/dms/image/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=PFy2LQAuefuy-w5fNVWMy_qO6OtNhLYS3ApqYMRXoyo" width="100"/>
+  <img src="https://media.licdn.com/dms/image/D5612AQG-ZYoX2UY4_w/article-cover_image-shrink_600_2000/0/1688225413043?e=2147483647&v=beta&t=EIUw4O0GWzfwuDlnWDuIYDX7tFVVpQF9eb_7RJIGH7I" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
