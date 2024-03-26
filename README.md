@@ -24,7 +24,7 @@ https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youn
   <img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" width="100"/>
   <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="100"/>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="100"/>
-  <img src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width="100"/>  
+  <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="100"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="100"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
