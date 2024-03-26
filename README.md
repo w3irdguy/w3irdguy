@@ -5,5 +5,7 @@
 # Languages what i know: 
 <div id="header" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
+  <img src="https://www.pngwing.com/en/free-png-yydme" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
 </div>
 
