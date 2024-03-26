@@ -17,7 +17,7 @@ https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youn
 # Languages i want to learn
 <div id="header" align="center">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
