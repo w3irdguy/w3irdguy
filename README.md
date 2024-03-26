@@ -10,6 +10,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
 </div>
 
-# Objetives
+# Objectives
 <b>i want to beat this bro:</b>
 https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youngest-to-learn-17-computer-languages-3125359
