@@ -27,12 +27,12 @@ https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youn
   <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="100"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="100"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="100"/>
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/600px-Dart_programming_language_logo_icon.svg.png?20220708094811" width="100"/>
+  <img src="https://logowik.com/content/uploads/images/java-symbol3728.logowik.com.webp" width="100"/>
+  <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" width="100"/>
 </div>
 
 
