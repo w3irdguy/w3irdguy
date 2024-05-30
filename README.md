@@ -4,41 +4,24 @@
 </div>
 
 # Languages what i know: 
-<div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"/>
-</div>
-
-# Objectives
-<b>i want to beat this bro:</b>
-https://www.ndtv.com/india-news/13-year-old-arnav-sivram-becomes-one-of-the-youngest-to-learn-17-computer-languages-3125359
-
-# Languages i want to learn
-
-Swift
-
-Typescript
 
 C
 
-C++
+Python3
+
+Ruby
+
+ShellScript
+
+# What i want to learn
+
+Ruby on Rails
 
 C#
 
-Dart
+PostgreSQL
 
-mySQL
-
-PHP
-
-Dart
-
-Kotlin
-
-Powershell
-
-Assembly
+MySQL
 
 HTML
 
@@ -46,12 +29,15 @@ CSS
 
 JavaScript
 
-Lua
+PHP
 
-Cristal
+Java
 
+Gitlab
 
+.NET
 
+HTTP Protocols
 
 
 
