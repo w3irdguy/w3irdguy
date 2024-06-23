@@ -17,8 +17,6 @@ ShellScript
 
 C#
 
-PostgreSQL
-
 MySQL
 
 HTML
