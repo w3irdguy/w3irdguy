@@ -15,8 +15,6 @@ ShellScript
 
 # What i want to learn
 
-C#
-
 MySQL
 
 HTML
