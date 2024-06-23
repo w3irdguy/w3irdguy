@@ -15,8 +15,6 @@ ShellScript
 
 # What i want to learn
 
-Ruby on Rails
-
 C#
 
 PostgreSQL
@@ -33,11 +31,7 @@ PHP
 
 Java
 
-Gitlab
-
-.NET
-
-HTTP Protocols
+HTTT Protocols
 
 
 
