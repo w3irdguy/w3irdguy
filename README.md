@@ -31,8 +31,6 @@ PHP
 
 Java
 
-HTTT Protocols
-
 
 
 
