@@ -25,8 +25,6 @@ JavaScript
 
 PHP
 
-Java
-
 
 
 
