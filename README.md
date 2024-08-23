@@ -3,15 +3,15 @@
   <b><br>programmer & hacking student</br></b>
 </div>
 
-## Olá! Eu sou o Matheus Fraga 🖐️
+## 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
 
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
 [![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/zantythelast)
 
-## Tecnologias que eu uso no meu dia
+## The programming languages i knew:
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
