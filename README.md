@@ -30,5 +30,5 @@
 
 # Stats 
 <div style="display: inline_block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3irdguy&theme=dark-green0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3irdguy&theme=dark-dark"/>
 </div>
