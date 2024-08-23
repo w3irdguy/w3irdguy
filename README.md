@@ -3,12 +3,12 @@
   <b><br>programmer & hacking student</br></b>
 </div>
 
-## 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
+# 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
 
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
 [![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/zantythelast)
 
-## The programming languages i knew:
+# The programming languages i knew:
 
 <div style="display: inline_block">
   <img align="center" alt="python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,7 +17,7 @@
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </div><br/>
 
-## Things i want to learn:
+# Things i want to learn:
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,4 +29,4 @@
 </div><br/>
 
 # Stats 
-![My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
+![My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7059b5&ic=9c6bff&bc=402773)
