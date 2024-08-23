@@ -3,6 +3,7 @@
   <b><br>programmer & hacking student</br></b>
 </div>
 
+![Meu Perfil](https://github-stats-alpha.vercel.app/api/?username=fatals3c&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
 ## 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
 
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
