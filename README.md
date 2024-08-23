@@ -3,7 +3,6 @@
   <b><br>programmer & hacking student</br></b>
 </div>
 
-![Meu Perfil](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
 ## 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
 
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
@@ -30,6 +29,4 @@
 </div><br/>
 
 # Stats 
-<div style="display: inline_block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3irdguy&theme=dark-dark"/>
-</div>
+![My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7759b5&ic=9c6bff&bc=402773)
