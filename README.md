@@ -15,16 +15,17 @@ ShellScript
 
 # What i want to learn
 
-MySQL
-
 HTML
-
-CSS
 
 JavaScript
 
-PHP
+C++
 
+C#
+
+VBScript
+
+PowerShell
 
 
 
