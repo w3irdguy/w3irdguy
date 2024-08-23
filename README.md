@@ -6,7 +6,7 @@
 ## Olá! Eu sou o Matheus Fraga 🖐️
 
 [![My First Website](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
-[![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/zantythelast)
 
 ## Tecnologias que eu uso no meu dia
 
