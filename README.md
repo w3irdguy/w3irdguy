@@ -5,6 +5,7 @@
 
 # Languages what i know: 
 
+```console
 C
 
 Python3
@@ -12,7 +13,7 @@ Python3
 Ruby
 
 ShellScript
-
+```
 # What i want to learn
 
 HTML
