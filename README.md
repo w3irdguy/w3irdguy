@@ -31,4 +31,4 @@
 </div><br/>
 
 ### Stats 
-!##[My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7059b5&ic=9c6bff&bc=402773)
+![My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7059b5&ic=9c6bff&bc=402773)
