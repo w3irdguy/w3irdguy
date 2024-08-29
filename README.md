@@ -8,7 +8,7 @@
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
 [![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/zantythelast)
 
-# The programming languages i knew:
+### The programming languages i knew:
 
 <div style="display: inline_block">
   
@@ -18,7 +18,7 @@
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </div><br/>
 
-# Things i want to learn:
+### Things i want to learn:
 
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -30,5 +30,5 @@
   <b>(and vbs)</b>
 </div><br/>
 
-# Stats 
-![My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7059b5&ic=9c6bff&bc=402773)
+### Stats 
+!##[My profile](https://github-stats-alpha.vercel.app/api/?username=w3irdguy&cc=000000&tc=7059b5&ic=9c6bff&bc=402773)
