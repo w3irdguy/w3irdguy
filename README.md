@@ -3,8 +3,6 @@
   <b><br>programmer & hacking student</br></b>
 </div>
 
-## 'Hello friend,hello friend? thats lame, maybe i should give you a name.'
-
 [![My First Website](https://img.shields.io/website?label=SiteFakeDeJogos&style=for-the-badge&url=https://w3irdguy.github.io/loop.github.io)](https://w3irdguy.github.io/loop.github.io)
 [![My Youtube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/zantythelast)
 
